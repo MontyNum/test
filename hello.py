@@ -1,1 +1,2 @@
-﻿print("Hello user") # print
+print("Hello user") # print
+print("Bye")
